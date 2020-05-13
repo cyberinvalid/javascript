@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-cyberinvalid",
+  "version": "1.0.5",
+  "description": "My own ESLint config based on airbnb's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberinvalid/javascript.git"
+  },
+  "author": "@cyberinvalid",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^14.1.0"
+  },
+  "devDependencies": {}
+}
